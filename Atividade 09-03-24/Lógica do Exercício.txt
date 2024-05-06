@@ -1,0 +1,80 @@
+Reenvio Atividade de Lógica e Algoritmos - Lacordaire
+Aluno: Emanuel Estevão
+
+1-
+Declaração das variáveis nomeAluno, nota1, nota2 e nota3.
+Solicitação para o usuário digitar o nome do aluno e leitura desse valor para a variável nomeAluno.
+Solicitação para o usuário inserir a primeira nota da disciplina e leitura desse valor para a variável nota1.
+Solicitação para o usuário inserir a segunda nota da disciplina e leitura desse valor para a variável nota2.
+Solicitação para o usuário inserir a terceira nota da disciplina e leitura desse valor para a variável nota3.
+Cálculo da média das notas utilizando a fórmula (nota1 + nota2 + nota3) / 3.
+Exibição do nome do aluno junto com sua média.
+
+2-
+Declaração das variáveis valor, taxa, tempoMeses e prestacao.
+Exibição de uma observação para o usuário sobre o formato de entrada dos números.
+Solicitação para o usuário escrever o valor da prestação e leitura desse valor para a variável valor.
+Solicitação para o usuário inserir a taxa para o cálculo e leitura desse valor para a variável taxa.
+Solicitação para o usuário inserir o tempo em meses em atraso e leitura desse valor para a variável tempoMeses.
+Cálculo do valor da prestação em atraso usando a fórmula valor + (valor * taxa / 100) * tempoMeses.
+Exibição do valor da prestação em atraso.
+
+3-
+Declaração das variáveis ht (horas trabalhadas), vh (valor da hora trabalhada), pd (percentual de desconto), sb (salário bruto), td (total de desconto) e sl (salário líquido).
+Solicitação para o usuário inserir o número de horas trabalhadas e leitura desse valor para a variável ht.
+Solicitação para o usuário inserir o valor da hora trabalhada e leitura desse valor para a variável vh.
+Solicitação para o usuário inserir o percentual de desconto e leitura desse valor para a variável pd.
+Cálculo do salário bruto multiplicando o número de horas trabalhadas pelo valor da hora trabalhada: sb = ht * vh.
+Cálculo do total de desconto aplicando o percentual de desconto sobre o salário bruto: td = (pd / 100) * sb.
+Cálculo do salário líquido subtraindo o total de desconto do salário bruto: sl = sb - td.
+Exibição das horas trabalhadas, salário bruto, percentual de desconto e salário líquido.
+
+4-
+Declaração da variável pi e atribuição do valor de pi (aproximadamente 3.14159) a essa variável.
+Declaração das variáveis area (área da circunferência) e raio (raio da circunferência).
+Solicitação para o usuário inserir o valor do raio da circunferência e leitura desse valor para a variável raio.
+Cálculo da área da circunferência utilizando a fórmula matemática: area = pi * (raio * raio).
+Exibição da área da circunferência.
+
+5-
+Declaração da variável pi e atribuição do valor de pi (aproximadamente 3.14159) a essa variável.
+Declaração das variáveis volume (volume da lata de óleo), raio (raio da lata de óleo) e altura (altura da lata de óleo).
+Solicitação para o usuário inserir o valor do raio da lata de óleo e leitura desse valor para a variável raio.
+Solicitação para o usuário inserir o valor da altura da lata de óleo e leitura desse valor para a variável altura.
+Cálculo do volume da lata de óleo utilizando a fórmula matemática: volume = pi * (raio * raio) * altura.
+Exibição do volume da lata de óleo.
+
+6-
+Declaração da variável ms (velocidade em metros por segundo).
+Solicitação para o usuário inserir a velocidade em metros por segundo e leitura desse valor para a variável ms.
+Cálculo da velocidade em quilômetros por hora, multiplicando a velocidade em metros por segundo por 3.6 (pois 1 metro por segundo é igual a 3.6 quilômetros por hora).
+Exibição da velocidade em quilômetros por hora.
+
+7-
+Declaração da variável idadeEmAnos (idade em anos).
+Solicitação para o usuário inserir sua idade em anos e leitura desse valor para a variável idadeEmAnos.
+Cálculo da idade em dias, multiplicando a idade em anos por 365 (pois há 365 dias em um ano).
+Exibição da idade em dias.
+
+8-
+Declaração das variáveis n1, n2 e n3 (notas).
+Solicitação para o usuário inserir suas 3 notas e leitura desses valores para as variáveis n1, n2 e n3.
+Cálculo da média ponderada utilizando a fórmula (n1 * 2 + n2 * 3 + n3 * 5) / 10.
+Exibição da média ponderada.
+
+9-
+Declaração da variável numero (número inteiro).
+Solicitação para o usuário inserir um número inteiro e leitura desse valor para a variável numero.
+Cálculo do sucessor do número digitado, adicionando 1 ao número digitado.
+Exibição do sucessor do número digitado.
+Cálculo do antecessor do número digitado, subtraindo 1 do número digitado.
+Exibição do antecessor do número digitado.
+
+10-
+Declaração das variáveis a e b.
+Solicitação para o usuário digitar o valor da variável A e leitura desse valor para a variável a.
+Solicitação para o usuário digitar o valor da variável B e leitura desse valor para a variável b.
+Armazenamento temporário do valor da variável a em uma variável temporária temp.
+Atribuição do valor da variável b à variável a.
+Atribuição do valor armazenado na variável temporária temp à variável b.
+Exibição dos novos valores das variáveis a e b, indicando que os valores foram trocados.
